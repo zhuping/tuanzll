@@ -1,0 +1,32 @@
+/*
+ ** 付款页样式 
+ */
+.top-panel {
+  position: absolute;
+  top: 12px;
+  right: 18px;
+  color: #777;
+}
+.top-panel a {
+  color: #777;
+}
+.top-panel a:hover {
+  color: #229692;
+}
+.steps {
+  margin-bottom: 20px;
+}
+.steps li {
+  float: left;
+  font-size: 16px;
+  margin-right: 30px;
+  line-height: 36px;
+  color: #999;
+  font-family: 'Microsoft Yahei';
+  margin-top: 4px;
+}
+.steps li.on {
+  color: #333;
+  font-size: 24px;
+  margin-top: 0;
+}

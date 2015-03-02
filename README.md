@@ -4,7 +4,7 @@
 
 
 * koa 需要node版本在0.11.9以上 推荐使用nvm
-* tnpm install
+* npm install
 * gulp develop
 
 ### 线上环境
